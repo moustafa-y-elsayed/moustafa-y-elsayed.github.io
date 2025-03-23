@@ -324,11 +324,12 @@ defaults:
       share: true
       related: true
 
+
 # Site Navigation
 main:
   - title: "Home"
-      url: /
+    url: /
   - title: "About"
-      url: /about/
+    url: /about/
   - title: "Projects"
-      url: /projects/
+    url: /projects/
