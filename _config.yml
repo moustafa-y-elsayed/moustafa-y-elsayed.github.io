@@ -323,3 +323,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# Site Navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
