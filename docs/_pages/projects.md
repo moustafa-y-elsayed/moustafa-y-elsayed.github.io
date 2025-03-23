@@ -8,7 +8,7 @@
 Real-time sewer overflow risk monitoring using IoT sensors deployed across Hong Kong, analyzed by predictive models and visualized using GIS dashboards.
 
 **Objectives:**  
-- Monitor sewer water levels in real-time using IoT sensors.
+- Monitor sewer water levels in real time using IoT sensors.
 - Predict potential overflow events using advanced predictive algorithms.
 - Visualize and communicate risk through interactive GIS dashboards clearly indicating risk status.
 
