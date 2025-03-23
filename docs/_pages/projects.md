@@ -2,29 +2,29 @@
 
 ## 📖 Detailed Project Descriptions
 
-### 🔗 <a name="iot-overflow-prediction"></a>1️⃣ IoT-based Sewer Overflow Prediction & Monitoring
+### 🔗 <a name="pipeline-deterioration"></a>2️⃣ Pipeline Deterioration Analysis Model
 
 **Project Overview:**  
-Real-time sewer overflow risk monitoring using IoT sensors deployed across Hong Kong, analyzed by predictive models and visualized using GIS dashboards.
+Advanced predictive analysis tool for proactively managing pipeline deterioration using historical inspection data and environmental conditions.
 
 **Objectives:**  
-- Monitor sewer water levels in real time using IoT sensors.
-- Predict potential overflow events using advanced predictive algorithms.
-- Visualize and communicate risk through interactive GIS dashboards clearly indicating risk status.
+- Predict pipeline deterioration accurately.
+- Automate data analysis and reporting process.
+- Provide actionable insights to infrastructure management teams.
 
 **Technical Details & Methodology:**  
-- Deploy IoT sensors at strategic manhole locations.
-- Data transmitted via loggers to a central processing server.
-- Predictive analytics using real-time data processing algorithms.
-- GIS integration for dynamic visualization (green, orange, red risk indicators).
+- Historical data input through manual or batch uploads (CSV).
+- Machine learning and clustering algorithms applied for condition assessment.
+- Data cleaned, validated, and structured clearly.
+- Generation of multi-format reports (CSV, PDF, etc.).
 
 **Technologies & Tools:**  
-- IoT Sensor Network, Python, Flask, Pandas, NumPy  
-- GIS visualization (Leaflet, Mapbox, ArcGIS/QGIS)
+- Python (Flask, Pandas), Orange3 Machine Learning, HTML/CSS, JavaScript
+- Data visualization and report generation tools.
 
 **Outcomes & Deliverables:**  
-- Real-time GIS dashboard for sewer overflow monitoring  
-- Faster response times for maintenance crews
+- Detailed condition assessment reports  
+- Enhanced predictive maintenance planning
 
 ---
 
