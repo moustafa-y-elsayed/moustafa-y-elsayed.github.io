@@ -1,6 +1,6 @@
 ---
 
-## 📖 Detailed Project Descriptions
+
 
 ### 🔗 <a name="pipeline-deterioration"></a>2️⃣ Pipeline Deterioration Analysis Model
 
