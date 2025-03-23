@@ -328,8 +328,8 @@ defaults:
 # Site Navigation
 main:
   - title: "Home"
-    url: /
+    url: /docs/
   - title: "About"
-    url: /about/
+    url: /docs/about/
   - title: "Projects"
-    url: /projects/
+    url: /docs/projects/
