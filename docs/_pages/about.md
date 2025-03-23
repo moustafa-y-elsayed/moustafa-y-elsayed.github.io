@@ -35,15 +35,15 @@ I'm a researcher and engineer specializing in **Smart Infrastructure Solutions**
 - **AI & OCR Tools:**
   - Tesseract OCR, Tabula, Able2Extract
 
-### 📄 [Download My CV](../assets/Your_CV.pdf)
+### 📄 [Download My CV](../assets/Moustafa_Elsayed _resume.pdf)
 
 *(Make sure your CV is uploaded into the `assets` folder.)*
 
 ### 📬 Contact Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
+- **Email:** moustafa1.elsayed@famu.edu
+- **LinkedIn:** https://www.linkedin.com/in/moustafa-younis-elsayed/
+- **GitHub:** (https://github.com/moustafa-y-elsayed)
 
 Feel free to connect or reach out for collaborations or inquiries!
 
